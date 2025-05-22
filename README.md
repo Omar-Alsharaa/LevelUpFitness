@@ -1,4 +1,4 @@
-# SoloFitness App
+# LevelUpFitness App
 
 A gamified fitness tracking application with RPG elements.
 
